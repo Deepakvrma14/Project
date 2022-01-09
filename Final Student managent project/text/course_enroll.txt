@@ -1,0 +1,6 @@
+Normal, CSE offline 27 1
+Normal, CSE offline 27 2
+Lateral Entry, CSE online 27 3
+Lateral Entry, CIVIL online 35 1
+Lateral Entry, CSE offline 2
+Normal, CSE offline 27 4
